@@ -1,4 +1,4 @@
-## 👋 Hi, I'm [Your Name] – Embedded Systems & IoT Engineer
+## 👋 Hi, I'm Mounir – Embedded Systems & IoT Engineer
 
 I'm an electromechanical engineer specialized in **mechatronics, embedded systems**, and **IoT solutions**. I build connected systems that integrate hardware, firmware, and communication technologies for industrial applications.
 
@@ -53,9 +53,9 @@ I'm an electromechanical engineer specialized in **mechatronics, embedded system
 
 ### 📫 Get in Touch
 
-- 📧 [your.email@example.com]  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 🌐 [Portfolio](https://your-website.com) *(optional)*
+- 📧 [mounir.mmahroug@example.com]  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mounir-mahroug/)  
+
 
 ---
 
