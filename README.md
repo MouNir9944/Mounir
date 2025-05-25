@@ -53,7 +53,7 @@ I'm an electromechanical engineer specialized in **mechatronics, embedded system
 
 ### 📫 Get in Touch
 
-- 📧 [Gmail][mounir.mmahroug@gmail.com]  
+- 📧 [mounir.mmahroug@gmail.com]  
 - 💼 [LinkedIn](https://www.linkedin.com/in/mounir-mahroug/)  
 
 
